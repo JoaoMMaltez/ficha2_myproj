@@ -1,3 +1,4 @@
-ficheiro 1 meu boss
+ficheiro 1 meu chefe
 
 Alterações efetuadas no branch NOVAFEATURE
+Alterações efetuadas no branch Master
